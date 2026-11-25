@@ -150,4 +150,4 @@ administrador, y faltar el runtime de Visual C++.
 
 ---
 
-*GTA 5 Online · Actualizado 2026-11-24 · Compartido bajo licencia MIT*
+*GTA 5 Online · Actualizado 2026-11-25 · Compartido bajo licencia MIT*
